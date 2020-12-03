@@ -1,0 +1,12 @@
+name: salesmanager
+title: salesmanager
+username:
+account: clem
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3344316
+bundleId: 3937637
+url: https://clem.shinyapps.io/salesmanager/
+when: 1606994226.05523
+asMultiple: FALSE
+asStatic: FALSE
