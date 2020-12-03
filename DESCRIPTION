@@ -1,5 +1,5 @@
 Package: salesmanager
-Title: A Shiny App to manages clients and sales using CRUD functionalities
+Title: An Shiny App to manages clients and sales using CRUD functionalities
 Version: 0.0.0.9000
 Authors@R: person('Clement', 'Tisseuil', email = 'clement.tisseuil@gmail.com', role = c('cre', 'aut'))
 Description: PKG_DESC.
