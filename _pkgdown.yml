@@ -1,0 +1,7 @@
+navbar:
+  title: "salesmanager"
+  type: inverse
+  right:
+    - icon: fa-github
+      href: https://github.com/tisseuil/salesmanager/
+      

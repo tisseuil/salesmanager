@@ -11,4 +11,4 @@ Clement is creator and maintainer of the `{salesmanager}` package.
 
 ### Find ThinkR on :
 + [LinkedIn](https://www.linkedin.com/in/clement-tisseuil/)
-+ [GitHub](https://github.com/tisseuil)
++ [GitHub](https://github.com/tisseuil/salesmanager)
